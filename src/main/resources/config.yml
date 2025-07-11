@@ -1,0 +1,9 @@
+disabled-commands:
+  - "/kill"
+  - "/fill"
+  - "/stop"
+  - "/plugins"
+  - "/bukkit:about"
+  - "/bukkit:ver"
+  - "/bukkit:version"
+  - "/bukkit:plugins"

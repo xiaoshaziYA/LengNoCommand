@@ -1,0 +1,8 @@
+name: LengNoCommand
+version: 1.1
+api-version: 1.21
+main: shaziawa.LengNoCommand.LengNoCommand
+commands:
+  权限姬:
+    description: 重载禁用命令配置
+    usage: /<command> 重载
